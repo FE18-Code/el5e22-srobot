@@ -7,8 +7,8 @@ clc;
 
 
 % vars
-Kp=2;
-Kd=2;
+Kp=3;
+Kd=5;
 
 % Solid 1
 F1=30;%Nm-1S
