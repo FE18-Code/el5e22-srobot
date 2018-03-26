@@ -44,7 +44,7 @@ z0=L1;
 %sim('gene_traj');
 
 % launch simulation
-sim('robot_reglage');
+sim('robot_reglage_couple');
 figure(1);
 plot3(xf, yf, zf, 'blue');grid;
 figure(2);
