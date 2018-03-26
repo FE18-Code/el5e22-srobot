@@ -35,9 +35,9 @@ k3=10;%NV-1
 I333=0.2;
 
 % time & all
-w=0.5;
-R=0.5;
-P=0.5;
+w=0.05; %vitesse
+R=0.5; %rayon
+P=2; %poids
 x0=1;
 y0=L2;
 z0=L1;
