@@ -39,8 +39,8 @@ w=0.5;
 R=0.5;
 P=0.5;
 x0=1;
-y0=1;
-z0=1;
+y0=L2;
+z0=L1;
 %sim('gene_traj');
 
 % launch simulation
